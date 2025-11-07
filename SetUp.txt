@@ -1,0 +1,5 @@
+# Tạo môi trường ảo
+python3 -m venv venv
+
+# Kích hoạt môi trường
+source venv/bin/activate
