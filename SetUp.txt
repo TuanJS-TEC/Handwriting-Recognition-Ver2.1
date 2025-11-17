@@ -3,3 +3,9 @@ python3 -m venv venv
 
 # Kích hoạt môi trường
 source venv/bin/activate
+
+
+python3.10 -m venv env_ai
+source env_ai/bin/activate
+
+deactivate
