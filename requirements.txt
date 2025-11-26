@@ -1,0 +1,17 @@
+# Core packages
+numpy==1.26.1
+tensorflow==2.20.0
+keras==3.12.0
+pillow==9.5.0
+protobuf>=5.28.0,<6
+
+# Streamlit and canvas
+streamlit==1.30.0
+streamlit-drawable-canvas==0.9.0
+
+# JAX for computations
+jax==0.4.17
+jaxlib==0.4.17
+
+# OpenCV
+opencv-python==4.9.0.80
